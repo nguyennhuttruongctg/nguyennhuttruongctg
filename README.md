@@ -1,7 +1,9 @@
 ## Hi there 👋
+![Profile views](https://visitor-badge.laobi.icu/badge?page_id=your-username)
 
 <!--
 **nguyennhuttruongctg/nguyennhuttruongctg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile views](https://visitor-badge.laobi.icu/badge?page_id=your-username)
 
 Here are some ideas to get you started:
 
